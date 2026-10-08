@@ -1,6 +1,7 @@
 1. ghcr.io/jaeheock/guestbook:v2
 
-2. #추후 캡처본 추가
+2. <img width="912" height="610" alt="image" src="https://github.com/user-attachments/assets/0200884f-7d8e-4de0-aee8-2e0722a70592" />
+
 
 3. guestbook의 Dockerfile 발췌
 # Docker 이미지 지정(-slim은 경량화 버전)
